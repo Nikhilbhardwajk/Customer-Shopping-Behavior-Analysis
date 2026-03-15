@@ -55,6 +55,10 @@ This project analyzes 3,900 customer transactions to uncover behavioral insights
 • Removed redundant column promocode used.
 
 • Cleaned dataset was loaded into MySQL for structured querying.
+![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/python.png)
+![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/python%202.png)
+
+
 
 
 # 6. Data Preparation & Feature Engineering
@@ -83,29 +87,39 @@ This project analyzes 3,900 customer transactions to uncover behavioral insights
 
 • Revenue Contribution by Gender - Male customers generated significantly higher total revenue compared to female customers
  igh-Spending Discount Users.
+ ![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/sql1.png)
 
 • High-Spending Discount Users - 839 customers were identified who used discounts but still spent above average.
+![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/sql2.png)
  
 • Top 5 Products by Rating – Found products with the highest average review ratings.
+![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/sql3.png)
  
 • Subscribers vs. Non-Subscribers – Compared average spend and total revenue across subscription status.
+![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/sql5.png)
  
 • Discount-Dependent Products – Identified 5 products with the highest percentage of discounted purchases.
+![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/sql5.png)
  
 • Shipping Type Comparison – Compared average purchase amounts between Standard       and Express shipping.
+![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/sql6.png)
  
 • Customer Segmentation – Classified customers into New, Returning, and Loyal segments based on purchase history.
+![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/sql7.png)
  
 • Top 3 Products per Category – Listed the most purchased products within each category.
+![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/sql8.png)
  
 • Repeat Buyers & Subscriptions – Checked whether customers with >5 purchases are more likely to subscribe.
+![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/sql9.png)
  
 • Revenue by Age Group – Calculated total revenue contribution of each age group.
+![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/sql10.png)
  
 
 # 9. Dashboard in Power BI 
 Finally, we built an interactive dashboard in Power BI to present insights visually.
- 
+ ![image alt](https://github.com/Nikhilbhardwajk/Customer-Shopping-Behavior-Analysis/blob/main/images/Dahboard.png)
 
 # 10. Strategic Recommendations
 
