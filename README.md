@@ -120,7 +120,7 @@ Finally, we built an interactive dashboard in Power BI to present insights visua
 • Strengthen loyalty incentives for retention growth.
 
 
-11. Project Takeaways
+# 11. Project Takeaways
 
 • This project demonstrates strong capability in data cleaning, SQL analytics, dashboard storytelling, KPI interpretation, and business strategy translation.
 
