@@ -1,47 +1,85 @@
 # Customer-Shopping-Behavior-Analysis
 Transactional retail data analysis with feature engineering, SQL business queries, and interactive Power BI dashboard development.End-to-End Data Analytics Project | Python • SQL • Power BI
 
-1. Project Context
+
+# 1. Project Context
 In highly competitive retail environments, understanding what drives customer spending, loyalty, and product performance is critical. 
 This project analyzes 3,900 customer transactions to uncover behavioral insights and generate data-driven commercial strategies.
 
-2. Business Objectives
-• Identify high revenue customer segments
-• Evaluate discount effectiveness
-• Analyze subscription value contribution
-• Understand demographic spending patterns
-• Detect product pricing dependency
 
-3. Dataset Overview
-• Transactions: 3,900
-• Features: 18
-• Categories: Accessories, Clothing, Footwear, Outerwear
+# 2. Tools & Technologies
 
-4. Data Preparation & Feature Engineering (Python)
-• Data cleaning and preprocessing were performed using Pandas to ensure data reliability .   
+• Python (Pandas, Data Cleaning, Feature Engineering).
+
+• MySQL (Business Querying & Aggregations).
+
+• Power BI (Dashboard & Visualization).
+
+
+# 3. Business Objectives
+
+• Identify high revenue customer segments.
+
+• Evaluate discount effectiveness.
+
+• Analyze subscription value contribution.
+
+• Understand demographic spending patterns.
+
+• Detect product pricing dependency.
+
+# 4. Dataset Overview
+
+• Transactions: 3,900.
+
+• Features: 18.
+
+• Categories: Accessories, Clothing, Footwear, Outerwear.
+
+
+# 5. Data Preparation & Feature Engineering (Python)
+
+• Data cleaning and preprocessing were performed using Pandas to ensure data reliability .  
+
 • Imputed missing review ratings using the median rating per product category.
+
 • Renamed columns into snake case format for consistency.
+
 • Created age group variable through age binning.
+
 • Derived purchase frequency days metric.
+
 • Removed redundant column promocode used.
-• Cleaned dataset was loaded into PostgreSQL for structured querying.
 
-6. Data Preparation & Feature Engineering
-• Median imputation for missing ratings
-• Created age cohorts and purchase frequency metrics
-• Customer lifecycle segmentation (New / Returning / Loyal)
-• MySQL integration for scalable querying
+• Cleaned dataset was loaded into MySQL for structured querying.
 
-7. Key Insights
-• Young Adults are the highest revenue contributors
-• Express shipping users show higher purchase intent
-• Certain products show ~50% discount dependency
-• Loyal customers dominate the customer base
-• Non‑subscribers generate higher total revenue due to population size
 
-8. Business Analysis Using SQL
+# 6. Data Preparation & Feature Engineering
+
+• Median imputation for missing ratings.
+
+• Created age cohorts and purchase frequency metrics.
+
+• Customer lifecycle segmentation (New / Returning / Loyal).
+
+• MySQL integration for scalable querying.
+
+# 7. Key Insights
+• Young Adults are the highest revenue contributors.
+
+• Express shipping users show higher purchase intent.
+
+• Certain products show ~50% discount dependency.
+
+• Loyal customers dominate the customer base.
+
+• Non‑subscribers generate higher total revenue due to population size.
+
+
+# 8. Business Analysis Using SQL
+
 • Revenue Contribution by Gender - Male customers generated significantly higher total revenue compared to female customers
- igh-Spending Discount Users
+ igh-Spending Discount Users.
 
 • High-Spending Discount Users - 839 customers were identified who used discounts but still spent above average.
  
@@ -62,40 +100,33 @@ This project analyzes 3,900 customer transactions to uncover behavioral insights
 • Revenue by Age Group – Calculated total revenue contribution of each age group.
  
 
-8. Dashboard in Power BI 
+# 9. Dashboard in Power BI 
 Finally, we built an interactive dashboard in Power BI to present insights visually.
  
 
-9. Strategic Recommendations
-• Improve subscription benefits to increase CLV
-• Optimize discount allocation using product elasticity signals
-• Target high‑value demographics for marketing ROI uplift
-• Promote top‑rated products for conversion improvement
-• Strengthen loyalty incentives for retention growth
+# 10. Strategic Recommendations
 
-10. Project Takeaways
-This project demonstrates strong capability in data cleaning, SQL analytics, dashboard storytelling, KPI interpretation, and business strategy translation.
+• Improve subscription benefits to increase CLV.
+
+• Optimize discount allocation using product elasticity signals.
+
+• Target high‑value demographics for marketing ROI uplift.
+
+• Promote top‑rated products for conversion improvement.
+
+• Strengthen loyalty incentives for retention growth.
 
 
+11. Project Takeaways
 
-# 8. Tools & Technologies
+• This project demonstrates strong capability in data cleaning, SQL analytics, dashboard storytelling, KPI interpretation, and business strategy translation.
 
-Python (Pandas, Data Cleaning, Feature Engineering)
+• Perform structured exploratory data analysis
 
-PostgreSQL (Business Querying & Aggregations)
+• Translate business questions into SQL insights
 
-Power BI (Dashboard & Visualization)
+• Build meaningful KPIs and strategic recommendations
 
-# 9. Project Outcome
+• Develop decision-support dashboards
 
-This project demonstrates the ability to:
-
-Perform structured exploratory data analysis
-
-Translate business questions into SQL insights
-
-Build meaningful KPIs and strategic recommendations
-
-Develop decision-support dashboards
-
-Communicate insights through data storytelling
+• Communicate insights through data storytelling
