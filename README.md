@@ -1,5 +1,8 @@
 # Customer-Shopping-Behavior-Analysis
-Transactional retail data analysis with feature engineering, SQL business queries, and interactive Power BI dashboard development.End-to-End Data Analytics Project | Python • SQL • Power BI
+
+Transactional retail data analysis with feature engineering, SQL business queries, and interactive Power BI dashboard development.
+
+End-to-End Data Analytics Project | Python • SQL • Power BI
 
 
 # 1. Project Context
